@@ -1,0 +1,27 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Aa]rm/
+[Aa]rm64/
+bin/
+obj/
+
+# C++
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.lib
+*.exe
+*.dll
+*.ipch
